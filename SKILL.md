@@ -3,8 +3,9 @@ name: sacred-space-design
 description: Help someone design and protect a space (physical or temporal) for reflection, creativity, and connection with their deeper self—honoring Campbell's insight that such space is necessary for transfo...
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.4894
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - sacred-space-design
 - transformation
